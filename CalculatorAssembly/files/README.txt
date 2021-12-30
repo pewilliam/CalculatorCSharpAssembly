@@ -1,0 +1,1 @@
+Mova os 3 arquivos para a pasta do executável do programa.
